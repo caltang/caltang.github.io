@@ -1,6 +1,6 @@
 ---
-title: About Calvin
-type: page
+title: About
+layout: page
 permalink: /about
 ---
 
