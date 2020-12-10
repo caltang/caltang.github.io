@@ -1,2 +1,11 @@
+# Site wide configuration
+
 theme: jekyll-theme-slate
 title: Calvin's Site
+locale: en_US
+
+owner:
+  name: Calvin Tangsirichareon
+  twitter: caltang
+  instagram: caltang
+  github: caltang
